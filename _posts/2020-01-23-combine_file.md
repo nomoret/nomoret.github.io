@@ -1,7 +1,7 @@
 ---
 title: "여러개 텍스트 파일 하나로 합치기"
 date: 2020-01-23 16:02:00 -0000
-categories: jekyll update
+categories: shell nlp
 ---
 
 ## 
