@@ -4,7 +4,6 @@ date: 2020-01-23 16:02:00 -0000
 categories: shell nlp
 ---
 
-## 
 ## 여러개의 텍스트 파일을 하나로 합치고 싶은 경우 
 * 아래 링크된 사이트를 예제로 리눅스에서 해보겠습니다.
 * [https://wikidocs.net/21690](https://wikidocs.net/21690) 참고
